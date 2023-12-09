@@ -1,4 +1,4 @@
-<img src="https://github.com/devyounus465/devyounus465/blob/main/ezgif.com-video-to-gif.gif" width="100%">
+<img src="https://github.com/devyounus465/devyounus465/blob/main/ezgif.com-video-to-gif.gif" width="100%" height="450px">
 
 <h1 align="center">Hi 👋, I'm Developer Younus</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
