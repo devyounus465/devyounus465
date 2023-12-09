@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Developer Younus</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/YjYFvBw/4717a813263f471b0def42d70c835ad5.gif" >
+  <img src="https://i.ibb.co/YjYFvBw/4717a813263f471b0def42d70c835ad5.gif" width="450px" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyounus465&label=Profile%20views&color=0e75b6&style=flat" alt="devyounus465" /> </p>
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **mdyounusali465@gmail.com**
 
 - ⚡ Fun fact **I think I am serious of my work and funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
